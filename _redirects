@@ -1,0 +1,2 @@
+# Redirect domain aliases to primary domain
+https://promo.exchange/* https://podcast.promo.exchange/:splat 301!
